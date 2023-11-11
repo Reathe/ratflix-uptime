@@ -6,7 +6,7 @@ sites:
   - name: Overseerr
     url: https://overseer.rafserver.com
   - name: Plex
-    url: https://plex.rafserver.com/web/index.html
+    url: https://plex.rafserver.com/web/index.html#!
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
