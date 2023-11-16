@@ -4,35 +4,39 @@
     "url": "https://overseer.rafserver.com",
     "icon": "https://icons.duckduckgo.com/ip3/overseer.rafserver.com.ico",
     "slug": "overseerr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1079,
-    "timeDay": 848,
-    "timeWeek": 1079,
-    "timeMonth": 1079,
-    "timeYear": 1079,
-    "dailyMinutesDown": {}
+    "time": 1050,
+    "timeDay": 816,
+    "timeWeek": 1050,
+    "timeMonth": 1050,
+    "timeYear": 1050,
+    "dailyMinutesDown": {
+      "2023-11-16": 0
+    }
   },
   {
     "name": "Plex",
     "url": "https://plex.rafserver.com/web/index.html#!",
     "icon": "https://icons.duckduckgo.com/ip3/plex.rafserver.com.ico",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 572,
-    "timeDay": 505,
-    "timeWeek": 572,
-    "timeMonth": 572,
-    "timeYear": 572,
-    "dailyMinutesDown": {}
+    "time": 520,
+    "timeDay": 279,
+    "timeWeek": 520,
+    "timeMonth": 520,
+    "timeYear": 520,
+    "dailyMinutesDown": {
+      "2023-11-16": 0
+    }
   }
 ]
